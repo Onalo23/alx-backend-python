@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-''' Description: Accept a float multiplier as argument and returns a function 
-                that multiplies a float by multiplier.
+''' Description: Accepts a float multiplier as arg and returns a function
+                 that multiplies a float by the multiplier
     Params: multiplier: float
 '''
 
